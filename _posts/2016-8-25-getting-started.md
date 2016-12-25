@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started
-description: Ipsum dolor sit amet
+description: Click to Contact Drew and get started on your new site!
 image: assets/images/pic01.jpg
 published: true
 ---
